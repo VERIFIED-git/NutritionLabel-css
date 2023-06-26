@@ -3,10 +3,7 @@
 ![image](https://github.com/VERIFIED-git/NutritionLabel-css/assets/123449884/e9c66f59-2f57-4374-89da-0e2b06266dd9)
 
 
-In this project, the art of typography is taken to the next level and then used to create a nutrition label webpage. Typography plays a crucial role in styling text to enhance readability and serve its intended purpose effectively. Through this project, you will gain hands-on experience on styling text, adjusting line height, and positioning text elements using CSS.
-
-
-
+In this project, the art of typography is taken to the next level and then used to create a nutrition label webpage. Typography plays a crucial role in styling text to enhance readability and serve its intended purpose effectively. Through this project, you will get a hands-on experience on things like styling text, adjusting line height, and positioning text elements using CSS.
 
 
 
